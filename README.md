@@ -1,3 +1,5 @@
+# “String Interpolation in {language}”, “VBA”
+
 ### "This is {0} cool!", "freaking"
 
 I've always wanted an easy and intuitive way to inject variables into a string. So after about 10 variations, I finally came up with this function.
