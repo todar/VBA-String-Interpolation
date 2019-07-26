@@ -30,7 +30,7 @@ Make sure to first set references to **Microsoft Scripting Runtime** and **Micro
 
 I thought about doing this late binding but figured performance is probably better with these libraries referenced and they are common enough that it should not matter.
 
-```vba
+```vb
 ' Returns a new cloned string that replaced special {keys} with its associated pair value.
 ' Keys can be anything since it goes off of the index, so variables must be in proper order!
 ' Can't have whitespace in the key.
